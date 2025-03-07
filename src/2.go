@@ -1,0 +1,1 @@
+  fmt.Println("Your random generated code is",random)
